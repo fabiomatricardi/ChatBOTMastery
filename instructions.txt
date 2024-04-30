@@ -12,3 +12,7 @@ pip install streamlit==1.24.0  #latest version of streamlit with Chat interface
 pip install gradio==4.28.3     #install // gradio-client==0.16.0->gradio
 
 
+or minimalistic
+pip install huggingface_hub
+pip install streamlit==1.24.0
+pip install gradio-client==0.16.0
