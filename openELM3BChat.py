@@ -9,7 +9,7 @@ from gradio_client import Client
 
 
 # Set HF API token  and HF repo
-yourHFtoken = "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" #here your HF token
+yourHFtoken = "hf_xxxxxxxx" #here your HF token
 repo="Norod78/OpenELM_3B_Demo"
 print(f'loading the API gradio client for {repo}')
 client = Client(repo, hf_token=yourHFtoken)
