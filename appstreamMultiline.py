@@ -9,7 +9,7 @@ from gradio_client import Client
 
 
 # Set HF API token  and HF repo
-yourHFtoken = "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" #here your HF token
+yourHFtoken = "hf_XXXXXXXXX" #here your HF token
 repo="ysharma/Chat_with_Meta_llama3_8b"
 print('loading the API gradio clilent')
 client = Client(repo, hf_token=yourHFtoken)
