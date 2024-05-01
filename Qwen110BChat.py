@@ -5,7 +5,7 @@ import sys
 from gradio_client import Client
 
 # Set HF API token  and HF repo
-yourHFtoken = "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" #here your HF token
+yourHFtoken = "hf_xxxxxxxxxxxxxxxxxxxx" #here your HF token
 repo = 'Qwen/Qwen1.5-110B-Chat-demo'
 def ConncetLLM(reponame,hftoken):
     print('loading the API gradio client for Qwen1.5-110B-Chat-demo')
