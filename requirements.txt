@@ -1,0 +1,3 @@
+huggingface_hub
+streamlit==1.24.0
+gradio-client==0.16.0
